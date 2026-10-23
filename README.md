@@ -40,6 +40,7 @@ Next steps: test the servos, calibrate joint positions, and develop a walking ga
 
 ## Credits
 
-Mechanical design inspired by **Regis Hsu** (https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/).
+Original design by Regis Hsu, including the mechanical parts, servo configuration, and original Arduino code.
+(https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/).
 
 *Personal educational project — work in progress.*
