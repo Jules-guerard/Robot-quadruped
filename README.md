@@ -31,7 +31,7 @@ The Arduino communicates with the PCA9685 via I²C (A4/SDA, A5/SCL). The servos 
 - Adapted the Arduino code for the PCA9685 with AI assistance.
 - Created the electrical schematic using KiCad.
 
-##Current Status
+## Current Status
 
 The robot is mechanically assembled, and the Arduino firmware has been tested in Wokwi using a simulated PCA9685 and 12 servomotors.
 
