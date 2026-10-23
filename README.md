@@ -31,11 +31,13 @@ The Arduino communicates with the PCA9685 via I²C (A4/SDA, A5/SCL). The servos 
 - Adapted the Arduino code for the PCA9685 with AI assistance.
 - Created the electrical schematic using KiCad.
 
-## Current Status
+##Current Status
 
-The mechanical assembly and wiring are complete. Walking functionality has not yet been tested due to the lack of a suitable external servo power supply.
+The robot is mechanically assembled, and the Arduino firmware has been tested in Wokwi using a simulated PCA9685 and 12 servomotors.
 
-Next steps: test the servos, calibrate joint positions, and develop a walking gait.
+Servo commands and movements have been observed in simulation, but physical calibration and walking functionality remain untested.
+
+Next steps include testing with a suitable external power supply, calibrating the servos, and validating the walking gait.
 
 ## Credits
 
