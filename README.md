@@ -9,7 +9,7 @@ The goal is to explore robotics, embedded electronics, and servo control.
 
 ## Overview
 
-![Quadruped robot](images/robot-front.jpg)
+![Quadruped robot](images/Robot-front.jpeg)
 
 The robot features four legs with three servomotors each.
 
