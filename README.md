@@ -23,7 +23,10 @@ The robot features four legs with three servomotors each.
 ![KiCad electrical schematic](images/wiring-diagram.svg)
 
 The Arduino communicates with the PCA9685 via I²C (A4/SDA, A5/SCL). The servos use PWM channels 0–11 and require a separate power supply.
+### Firmware
 
+- [Arduino Nano + PCA9685 firmware](firmware/spider_pca9685.ino)
+  
 ## My Contributions
 
 - Assembled the 3D-printed robot and installed the servomotors.
