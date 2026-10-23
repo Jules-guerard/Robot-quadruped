@@ -21,7 +21,7 @@ The robot features four legs with three servomotors each.
 
 ## Electronics
 
-![KiCad wiring schematic](images/wiring-diagram.png)
+![KiCad electrical schematic](images/Quadruped_Robot.svg)
 
 The Arduino communicates with the PCA9685 via I²C (A4/SDA, A5/SCL). The servos use PWM channels 0–11 and require a separate power supply.
 
